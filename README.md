@@ -31,4 +31,8 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+### SS
 
+<img width="1355" alt="Screen Shot 2023-02-25 at 8 15 18 PM" src="https://user-images.githubusercontent.com/118473305/221388585-0e2f1605-1622-4543-9b45-6af85fd9bb8d.png">
+
+<img width="1364" alt="Screen Shot 2023-02-25 at 8 17 11 PM" src="https://user-images.githubusercontent.com/118473305/221388616-e2b3a9b4-6f77-40ef-8502-8cc482cce8f0.png">
