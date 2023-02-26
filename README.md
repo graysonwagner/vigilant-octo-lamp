@@ -6,7 +6,9 @@ Currently incomplete, heroku deployment currently unavailable. Server file parti
 
 ## Tech stack 
 Express.js
+
 Node 
+
 CRUD Api's
 
 ## Acceptance criteria
